@@ -31,3 +31,12 @@ git clone git@github.com:google-research/google-research.git --depth=1
 *Disclaimer: This is not an official Google product.*
 
 Updated in 2023.
+
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+vhttps://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
+https://research.google/blog/ul2-20b-an-open-source-unified-language-learner/
